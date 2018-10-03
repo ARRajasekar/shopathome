@@ -54,3 +54,35 @@ a.menu{
     float: left;
 
 }
+.menu-log .login-area{
+    float: right;
+   
+}
+.menu-logo{
+    text-align: center;
+}
+
+/*contact-us*/
+.content-page{
+    text-align: center;
+    width: 50%;
+}
+.content-row{
+    width: 50%;
+    height: 25px;
+    text-align: center;
+}
+.lbl-name,
+.txt-name,
+.lbl-phone,
+.txt-phone,
+.lbl-email,
+.txt-email,
+.lbl-msg,
+.txt-msg,
+.btn-submit,
+.btn-cancel{
+    width: 50%;
+    float: left;
+    text-align: left;
+}
