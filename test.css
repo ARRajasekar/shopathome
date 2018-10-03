@@ -1,0 +1,21 @@
+body{
+	margin:0;
+	padding:0;
+}
+.menu-wrapper{
+	background-color: rgba(0,0,0,0.3);
+	text-align:center;
+	line-height: 100px;
+
+}
+.user-img{
+	width: 50px;
+	line-height: 100px;	
+}
+.user-wrapper{
+	display: inline-block;
+	border-radius: 50px;
+	border: 1px solid #434342;
+	width: 7%;
+	line-height: 50px;
+}

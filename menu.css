@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+body{
+    /*background-color:lightblue;*/
+    margin:0;
+    padding:0;
+}
+.menu-container{
+    background-color: rgba(255,255,255,1);
+    height: 50px;
+}
+.menu-nav .menu{
+    width: 24%;
+    text-align: center;
+    background-color:#FABE63;
+    color:#CA4328; 
+    margin: 10px 1px;
+    padding: 1px 1px;
+    font-size: 1.3em;
+    float: left;
+    border-radius: 3px;
+}
+a.menu{
+    width:25%;
+    height:30px; 
+    margin: 0;
+    padding: 4px 0 4px 0;
+
+}
+.menu{
+    min-width: 91px;
+}
+.menu:hover{
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+
+.body-wrapper{
+    width: 100%;
+}
+.menu-nav{
+    text-align: center;
+}
+.menu-logo, 
+.menu-nav,
+.menu-log{
+    width: 33.33%;
+    height:50px;
+    float: left;
+
+}
